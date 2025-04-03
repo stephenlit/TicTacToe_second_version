@@ -112,12 +112,4 @@ public class Board
             }
         }
     }
-    public void ClearCell(int row, int col)
-    {
-        GameBoard[row, col] = ' ';
-    }
-    public void SetCell(int row, int col, char symbol)
-    {
-        GameBoard[row, col] = symbol;
-    }
 }
