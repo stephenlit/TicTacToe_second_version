@@ -1,0 +1,10 @@
+Steps to making a C# Tic Tac Toe game
+
+1. create a class for Players - Players.cs
+2. create a class for the game Board - Board.cs
+3. create a class for game management - GameManagement.cs
+
+The players class will be a simple class that will hold the players name and symbol (X or O).
+The game board class will have the methods for displaying the board and methods for moves and
+moves validation. I will be using a 2d array for the game board and location.
+
